@@ -1,0 +1,5 @@
+[tools]
+java = "corretto"
+maven = "3.10.0"
+node = "latest"
+python = "latest"
